@@ -1,0 +1,10 @@
+{
+ "name":"felipepinson/olamundo",
+ "license":"MIT",
+ "require":{
+  "php":">=5.6"
+ },
+ "autoload":{
+  "files": ["autoload.inc"]
+ }
+}
